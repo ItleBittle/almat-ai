@@ -87,4 +87,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Built by ALMAT AI </p>
+<p align="center">Built by ALMAT AI tm. </p>
