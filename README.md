@@ -1,4 +1,4 @@
-# Almat AI
+# ALMAT AI
 
 **Let multiple AIs debate, refine, and agree, so you get answers that have been challenged before they reach you.**
 
