@@ -1,4 +1,4 @@
-# Almat AI
+# ALMAT AI
 
 **Let multiple AIs debate, refine, and agree, so you get answers that have been challenged before they reach you.**
 
@@ -83,8 +83,8 @@ The consensus system is the core of Almat AI. After each round, every participat
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Update this section to match your chosen license.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Built with ❤️ by the Almat AI team</p>
+<p align="center">Built by ALMAT AI tm. </p>
