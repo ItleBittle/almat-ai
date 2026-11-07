@@ -4,7 +4,7 @@ https://itlebittle.github.io/almat-ai/
 
 **Let multiple AIs debate, refine, and agree, so you get answers that have been challenged before they reach you.**
 
-Almat AI is an app/website where several AI models discuss your prompt with each other. Instead of relying on a single model's first answer, Almat AI puts multiple models in a conversation. They critique, build on, and correct each other's ideas until they reach a conclusion they all consider satisfactory and valid.
+Almat AI is an website where several AI models discuss your prompt with each other. Instead of relying on a single model's first answer, Almat AI puts multiple models in a conversation. They critique, build on, and correct each other's ideas until they reach a conclusion they all consider satisfactory and valid.
 
 ---
 
@@ -89,4 +89,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Built by ALMAT AI tm. </p>
+<p align="center">Built by ALMAT Team </p>
