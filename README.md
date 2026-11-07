@@ -83,7 +83,7 @@ The consensus system is the core of Almat AI. After each round, every participat
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Update this section to match your chosen license.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
