@@ -1,6 +1,6 @@
 # ALMAT AI
 
-https://itlebittle.github.io/almat-ai/
+[https://itlebittle.github.io/almat-ai/](https://ian-du-dev.github.io/almat-ai/)
 
 **Let multiple AIs debate, refine, and agree, so you get answers that have been challenged before they reach you.**
 
