@@ -1,3 +1,5 @@
+# Almat AI
+
 <img src="logo.png" alt="Almat AI logo" width="200"/>
 
 [https://ian-du-dev.github.io/almat-ai/](https://ian-du-dev.github.io/almat-ai/)
